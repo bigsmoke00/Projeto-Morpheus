@@ -1,11 +1,27 @@
-# TERMINAL SSH WEB
+# Morpheus
 
 ![image](https://user-images.githubusercontent.com/91279736/204190346-042bd490-a69d-4591-85f2-0126485b70ee.png)
-div align="center"
-img src="https://user-images.githubusercontent.com/91279736/204190046-2fda8eba-23dd-460b-b846-cf80ef8b75c0.png" width="0px" /
-/div
 
-> Estamos desenvolvendo um projeto aonde iremos scanear a rede e gerar um terminal web aonde os servidores linux poderão ser acessados de apenas 1 local, assim poupando tempo do sysadm!
+> Webterminal onde o Morpheus realiza cadastro de host e realiza conexões ssh
+
+![image](https://user-images.githubusercontent.com/91279736/204190672-dc65ef28-3858-4041-b8b8-41f91cfe856d.png)
+
+>Como Usar
+
+Este projeto é uma aplicação Web baseado em js.
+
+### Front-end
+
+HTML, CSS
+
+### Back-end
+Js, socktio, tcp, ssh2
+
+## Funcionalidades
+
+Adicionar, Remover, Conexão de host via ssh
+
+
 # ALUNOS
 * Geraldo de Souza Cruz Neto
 * Eduardo Fernando Ivo Cunha da Silva Filho
